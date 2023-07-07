@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "c0f95a8730beccf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb522fec78bf53f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93b10f42c8124d00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/2023/Q3/图床测试.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab3787a8195df3cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "927f098025839f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa414fcf55a1db8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53efc4ba63e57fb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ec3eb7e95f869ce",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7605e30bac82e5a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88e0f10ce7308a06",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ae3eb5dd37fe3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3336997665cda2ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工作/2023/Q3/图床测试.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "23c0cc4037a39c98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工作/2023/Q3/图床测试.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04c2b99adc35c11b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da1ec773600c0743",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工作/2023/Q3/图床测试.md"
+              }
+            }
+          },
+          {
+            "id": "bb96a9506d3a0852",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "random-note:开始漫游笔记": false,
+      "meld-encrypt:Create new encrypted note": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "bb96a9506d3a0852",
+  "lastOpenFiles": [
+    "关于obsidian的使用/日记/2023-02-08_星期三.md",
+    "关于obsidian的使用/插件/admonition使用.md",
+    "工作/2023/Q1/ES.md",
+    "关于obsidian的使用/Templates/日记模板.md",
+    "工作/2023/Q3/图床测试.md",
+    "工作/2023/Q2/测试-商品推荐.md",
+    "工作/2023/Q1/业务件监控系统.md",
+    "工作/2023/Q1/5G消息整理.md",
+    "未命名.canvas",
+    "工作/2023/Q3/Q3测试.md",
+    "Untitled 20230705 072931.encrypted",
+    "工作/2023/Q4",
+    "工作/2023/Q3",
+    "工作/2023/Q1/全网活动整理.md",
+    "工作/2023/Q2",
+    "关于obsidian的使用/插件/加密测试.encrypted",
+    "static/imgs",
+    "static",
+    "static/imgs/Pasted image 20230228182303.png",
+    "test/test.txt",
+    "test",
+    "2021-06-05.md",
+    "关于obsidian的使用/日常.md",
+    "关于obsidian的使用/Templates/模板2.md"
+  ]
+}
